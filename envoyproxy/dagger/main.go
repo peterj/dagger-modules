@@ -1,3 +1,8 @@
+// Envoy proxy module for Dagger.
+
+// The Envoy proxy Dagger module enables you to do the following:
+// - run an instance of Envoy proxy using the provided configuration
+// - validate the Envoy configuration file
 package main
 
 import (
